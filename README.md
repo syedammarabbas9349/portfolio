@@ -14,7 +14,7 @@ To test or run this project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/AapkaUsername/portfolio.git](https://github.com/AapkaUsername/portfolio.git)
+   git clone [https://github.com/AapkaUsername/portfolio.git](https://github.com/syedammarabbas9349/portfolio.git)
 Open the folder in your code editor (e.g., VS Code).
 
 Open index.html in your browser or use the Live Server extension.
